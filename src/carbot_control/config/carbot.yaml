@@ -1,0 +1,5 @@
+carbot_driver:
+  ros__parameters:
+    linear_speed: 0.40
+    angular_speed: 0.0
+    publish_period: 0.2
